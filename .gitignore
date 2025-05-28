@@ -1,0 +1,29 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+venv/
+.venv/
+env/
+ENV/
+ticket_env/ # (From your other project, good to keep if you might reuse)
+*.env
+
+.vscode/
+.idea/
+*.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# data/english_quotes_preprocessed.json 
+# data/quotes_faiss.index             
+# data/quotes_data.pkl                
+# data/ragas_evaluation_results.json  
+
+# data/Abirate_english_quotes_dataset_raw_files/ 
+
+# .streamlit/

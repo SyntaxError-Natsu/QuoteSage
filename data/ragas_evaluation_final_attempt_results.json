@@ -1,0 +1,24 @@
+[
+  {
+    "user_input":"Quotes about insanity attributed to Einstein",
+    "retrieved_contexts":[
+      "\u201ca question that sometimes drives me hazy: am i or are the others crazy?\u201d",
+      "\u201cin individuals, insanity is rare; but in groups, parties, nations and epochs, it is the rule.\u201d",
+      "\u201cthe world is a dangerous place to live, not because of the people who are evil, but because of the people who don't do anything about it.\u201d"
+    ],
+    "response":"Summary generation failed or LLM not available. Displaying raw retrieved quotes.",
+    "reference":"Summary generation failed or LLM not available. Displaying raw retrieved quotes.",
+    "context_precision":null
+  },
+  {
+    "user_input":"Motivational quotes tagged 'accomplishment'",
+    "retrieved_contexts":[
+      "\u201cthe starting point of all achievement is desire. keep this constantly in mind. weak desire brings weak results, just as a small fire makes a small amount of heat.\u201d",
+      "\u201cto be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.\u201d",
+      "\u201csuccess is not how high you have climbed, but how you make a positive difference to the world.\u201d"
+    ],
+    "response":"Summary generation failed or LLM not available. Displaying raw retrieved quotes.",
+    "reference":"Summary generation failed or LLM not available. Displaying raw retrieved quotes.",
+    "context_precision":null
+  }
+]

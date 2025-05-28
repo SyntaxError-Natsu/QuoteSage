@@ -1,0 +1,14 @@
+datasets
+sentence-transformers
+faiss-cpu
+transformers[torch]
+torch
+streamlit
+ragas>=0.1.0
+pandas
+scikit-learn
+ipykernel
+nltk
+hf_xet
+langchain-huggingface
+accelerate
