@@ -12,6 +12,13 @@ This project implements a Retrieval Augmented Generation (RAG) system for semant
 
 ---
 
+## 🎞️ Short Video Walkthrough
+
+*   **[Watch on Youtube](https://youtu.be/Xtk4wuafZk4) - Full feature walkthrough**
+*   **Summary:** This video provides a comprehensive demonstration of the RAG-Based Semantic Quote Retrieval (QuoteSage) project. It covers the project setup, data preparation for the quote dataset, the "fine-tuning" process (embedding generation and FAISS indexing), an overview of the RAG evaluation with RAGAS, and an interactive session with the Streamlit application showcasing how to query for quotes and interpret the results. Key features, system architecture, design choices, and project challenges are also highlighted.
+ 
+---
+
 ## 🚀 **Quick Start & Setup**
 
 **1. Prerequisites:**
@@ -208,11 +215,3 @@ Developed with ❤️ by [Your Name](https://github.com/SyntaxError-Natsu)
 
 ## 🙏 **Acknowledgments**
 Special thanks to the creators of the `Abirate/english_quotes` dataset, the Hugging Face team for `transformers` and `datasets`, the developers of `sentence-transformers`, `FAISS`, `RAGAS`, Streamlit, and the assignment provider for this learning opportunity.
-
----
-
-## 🎞️ Short Video Walkthrough
-
-*(Provide a link to your video walkthrough or indicate how it's submitted.)*
-*   **Link:** `[Your Video Link Here]`
-*   **Summary:** The video demonstrates project setup, data preparation, model indexing, RAG evaluation, and an interactive session with the Streamlit application, highlighting key features and challenges.
