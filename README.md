@@ -14,7 +14,7 @@ This project implements a Retrieval Augmented Generation (RAG) system for semant
 
 ## 🎞️ Short Video Walkthrough
 
-*   **[Watch on Youtube](https://youtu.be/Xtk4wuafZk4) - Full feature walkthrough**
+*   **[Watch on Youtube](https://youtu.be/V1t58HgyiKU) - Full feature walkthrough**
 *   **Summary:** This video provides a comprehensive demonstration of the RAG-Based Semantic Quote Retrieval (QuoteSage) project. It covers the project setup, data preparation for the quote dataset, the "fine-tuning" process (embedding generation and FAISS indexing), an overview of the RAG evaluation with RAGAS, and an interactive session with the Streamlit application showcasing how to query for quotes and interpret the results. Key features, system architecture, design choices, and project challenges are also highlighted.
  
 ---
